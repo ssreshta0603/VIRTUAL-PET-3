@@ -74,9 +74,9 @@ function draw() {
  addFood.show();
 
 }
-textSize(28);
-textFont("georgia")
-text("Food Left : " + foodS,100,80);
+//textSize(28);
+//textFont("georgia")
+//text("Food Left : " + foodS,100,80);
   drawSprites();
 }
 
